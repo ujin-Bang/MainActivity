@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MainActivity</string>
+    <string name="main_message">메인화면입니다</string>
+    <string name="move_to_other">다른 화면으로 이동</string>
 </resources>
